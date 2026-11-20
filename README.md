@@ -6,7 +6,7 @@
 
 make.fun bounty entry: [Sum up 19 November's world news in one image](https://make.fun/bounty/news-image-20261119).
 
-A newspaper front page (`entry.png`, 683×1024 PNG) summing up Thursday 19 November 2026 in six stories:
+A newspaper front page (`entry.png`, 683×1024 PNG, 984,453 bytes, sha256 `d60307b46bb07929d673ac5926841208540067fe351a70bd00a405d91aa960f1`) summing up Thursday 19 November 2026 in six stories:
 
 1. **Trump, Xi & Putin meet in Shenzhen** — First-ever three-way summit at APEC; 90-minute talks end in a "peace declaration" on nuclear risks.
 2. **World court: Myanmar committed genocide** — ICJ rules 9–6 over the 2017 Rohingya crackdown, a first for the UN court; Myanmar must pay compensation.
